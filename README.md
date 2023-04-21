@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renata Moreno</h1>
 <h3 align="center">I'm a passionate software developer from Uruguay!</h3>
 
-- 🌱 Estoy aprendiendo **New technologies!**
+- 🌱 I'm learning **New technologies!**
 
 - 💬 Ask me about **html, css, js y c#**
 
