@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Me llamo Renata Moreno</h1>
-<h3 align="center">Soy una programadora apasionada de Uruguay.</h3>
+<h1 align="center">Hi 👋, i'm Renata Moreno</h1>
+<h3 align="center">I'm a passionate software developer from Uruguay!</h3>
 
 - 🌱 I'm learning **New technologies like java!**
 
