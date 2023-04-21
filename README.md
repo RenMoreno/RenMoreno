@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Me llamo Renata Moreno</h1>
 <h3 align="center">Soy una programadora apasionada de Uruguay.</h3>
 
-- 🌱 Estoy aprendiendo **Nuevas tecnologias en la Facultad!**
+- 🌱 I'm learning **New technologies like java!**
 
-- 💬 Puedes preguntarme por **html, css, js y c#**
+- 💬 Ask me about **html, css, js y c#**
 
-- 📫 Como contactarme: **renatamoremal@gmail.com**
+- 📫 How to reach me **renatamoremal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
